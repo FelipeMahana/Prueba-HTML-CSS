@@ -1,0 +1,55 @@
+nav{
+	background-color: #39752a;
+}
+
+aside{
+	padding-left: 1em;
+	border-left: 2px solid white;	
+}
+
+.container1{
+	background-color: #eaedea;
+	padding: 2em;
+}
+.container2  {
+	background-color: #ebf4eb;
+	padding-top: 2em;
+}
+
+.container3{
+	padding-top: 2em;
+}
+
+.copyright{
+	background-color: #181819;
+	color: white;
+	padding: 1.4em;
+}
+.redesS{
+	text-align: center;
+}
+
+.conteinerB1{
+	background-color: #ebf4eb;
+	padding-top: 2em;
+	border-left: 2px solid white;
+	border-right: 2px solid white;
+}
+.noticia1{
+	padding-left: 1em;
+	padding-right: 1em;
+	border-left: 2px solid white;
+	border-right: 2px solid white;
+}
+
+.containerB2{
+	padding-top: 2em;
+}
+
+.conteinerN1{
+	background-color: #ebf4eb;
+	padding-top: 2em;
+}
+.containerN2{
+	padding-top: 2em;
+}
